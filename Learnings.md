@@ -9,3 +9,4 @@
 
 - Don't *overly* trust libraries
 	- graphlib library seems to have given wrong distance results on day 16, leading to **hours** of debugging before implementing Floyd-Warshall myself anyway
+- Keep "alternate solutions" somewhere - might be useful again in the future (i.e., part 2)
